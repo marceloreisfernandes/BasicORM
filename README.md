@@ -146,4 +146,5 @@ O projeto atual referencia componentes FireDAC para Firebird/InterBase.
 
 ## Licenca
 
-Licenca ainda nao definida.
+Este projeto esta licenciado sob a MIT License.
+Consulte o arquivo LICENSE para mais detalhes.
