@@ -1,6 +1,18 @@
-# Ignore Paste.
-/bin/*
-/lib/*
-/test/*
+# Delphi build output
+/bin/
+/lib/
+Win32/
+Win64/
+*.dcu
+*.exe
+*.map
+*.rsm
+
+# Delphi IDE local/cache files
+*.identcache
+*.stat
+*.local
+*.dsk
+*.~*
 __history/
 __recovery/
